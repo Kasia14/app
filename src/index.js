@@ -8,6 +8,11 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+
+//     <nppdiv>
+//  <h1>Hello world!</h1>
+//  <p>Hi</p>
+//  </div>,
   document.getElementById('root')
 );
 
